@@ -27,7 +27,7 @@ Here, you will find:
 8. [Articles and Tutorials](./articles-and-tutorials.md)
 9. [Communities](./communities.md)
 9. [News and Updates](./news-and-updates.md)
-10.[Job portals ](./job-portals.md)
+10. [Job portals ](./job-portals.md)
 
 ---
 
