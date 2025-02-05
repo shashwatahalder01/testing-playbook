@@ -14,10 +14,12 @@ Here, you will find:
 - Communities
 - Latest News and Trends in Testing
 - Job portals
+- Certifications and Career Growth Resources
+- Interview Preparation and Resume Guidelines
 
 ## **Table of Contents**
 
-1. [Blog Sites](./blog-sites.md)
+1. [Blog Sites](./blog-sites.md) 
 2. [Podcasts](./podcasts.md)
 3. [Books](./books.md)
 4. [Roadmaps](./roadmaps.md)
@@ -26,8 +28,18 @@ Here, you will find:
 7. [Courses](./courses.md)
 8. [Articles and Tutorials](./articles-and-tutorials.md)
 9. [Communities](./communities.md)
-9. [News and Updates](./news-and-updates.md)
-10. [Job portals ](./job-portals.md)
+10. [News and Updates](./news-and-updates.md)
+11. [Test Management Tools](./test-management-tools.md)
+12. [Bug Reporting & Tracking Tools](./bug-tracking-tools.md)
+13. [Certifications](./certifications.md)
+14. [Job portals ](./job-portals.md)
+15. [Resume Guide](./resume.md)
+16. [Interview Preparation](./interview.md)
+17. [Soft Skills & Communication](./soft-skills.md)
+
+
+
+
 
 ---
 
