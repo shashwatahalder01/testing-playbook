@@ -18,24 +18,29 @@ Here, you will find:
 - Interview Preparation and Resume Guidelines
 
 ## **Table of Contents**
+- [Blog Sites](./blog-sites.md) 
+- [Podcasts](./podcasts.md)
+- [Books](./books.md)
+- [Roadmaps](./roadmaps.md)
+- [YouTube Channels](./youtube-channels.md)
+- [Tools](./tools.md)
+- [Courses](./courses.md)
+- [Articles and Tutorials](./articles-and-tutorials.md)
+- [Communities](./communities.md)
+- [News and Updates](./news-and-updates.md)
+- [Test Management Tools](./test-management-tools.md)
+- [Bug Management Tools](./bug-management-tools.md)
+- [Test Plan & Testing Strategy](./test-plan-strategy.md)
+- [Testing Methodologies](./testing-methodoly.md)
+- [Certifications](./certifications.md)
+- [Hard/technical Skills for Testers](./hard-skills.md)
+- [Soft Skills & Communication for Testers](./soft-skills.md)
+- [Job portals ](./job-portals.md)
+- [Resume Guide](./resume.md)
+- [Interview Preparation](./interview-preparation.md)
+- [Interview Questions](./interview-questions.md)
 
-1. [Blog Sites](./blog-sites.md) 
-2. [Podcasts](./podcasts.md)
-3. [Books](./books.md)
-4. [Roadmaps](./roadmaps.md)
-5. [YouTube Channels](./youtube-channels.md)
-6. [Tools](./tools.md)
-7. [Courses](./courses.md)
-8. [Articles and Tutorials](./articles-and-tutorials.md)
-9. [Communities](./communities.md)
-10. [News and Updates](./news-and-updates.md)
-11. [Test Management Tools](./test-management-tools.md)
-12. [Bug Reporting & Tracking Tools](./bug-tracking-tools.md)
-13. [Certifications](./certifications.md)
-14. [Job portals ](./job-portals.md)
-15. [Resume Guide](./resume.md)
-16. [Interview Preparation](./interview.md)
-17. [Soft Skills & Communication](./soft-skills.md)
+
 
 
 
