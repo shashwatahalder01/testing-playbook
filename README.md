@@ -41,6 +41,7 @@ Here, you will find:
 - [Interview Questions](./interview-questions.md)
 - [Demanding Skill sets](./skill-sets-requied-for-market.md)
 - [Future Proofing Your QA Engineer Career](./furure-proofing-qa-engineer-career.md)
+- [Wanna be a QA Lead](./qa-manager-lead.md)
 
 ---
 
