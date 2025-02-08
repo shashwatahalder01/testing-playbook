@@ -40,6 +40,7 @@ Here, you will find:
 - [Interview Preparation](./interview-preparation.md)
 - [Interview Questions](./interview-questions.md)
 - [Demanding Skill sets](./skill-sets-requied-for-market.md)
+- [Future Proofing Your QA Engineer Career](./furure-proofing-qa-engineer-career.md)
 
 ---
 
