@@ -39,12 +39,7 @@ Here, you will find:
 - [Resume Guide](./resume.md)
 - [Interview Preparation](./interview-preparation.md)
 - [Interview Questions](./interview-questions.md)
-
-
-
-
-
-
+- [Demanding Skill sets](./skill-sets-requied-for-market.md)
 
 ---
 
