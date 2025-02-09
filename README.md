@@ -5,6 +5,7 @@ Welcome to **Testing-Playbook**, your ultimate resource hub for everything relat
 ## **What's Inside?**
 
 Here, you will find:
+
 - Software Testing Blogs
 - Podcasts related to QA & Testing
 - Recommended Testing Books
@@ -18,7 +19,8 @@ Here, you will find:
 - Interview Preparation and Resume Guidelines
 
 ## **Table of Contents**
-- [Blog Sites](./blog-sites.md) 
+
+- [Blog Sites](./blog-sites.md)
 - [Podcasts](./podcasts.md)
 - [Books](./books.md)
 - [Roadmaps](./roadmaps.md)
@@ -42,6 +44,8 @@ Here, you will find:
 - [Demanding Skill sets](./skill-sets-requied-for-market.md)
 - [Future Proofing Your QA Engineer Career](./furure-proofing-qa-engineer-career.md)
 - [Wanna be a QA Lead](./qa-manager-lead.md)
+- [Designing Your GitHub Profile](./git-profile.md)
+- [Build Your Profile](./qa-profile.md)
 
 ---
 
@@ -96,4 +100,5 @@ git push origin feature-branch
 Our team will review your PR and provide feedback.
 
 ---
+
 Happy learning and testing!
