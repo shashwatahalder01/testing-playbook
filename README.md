@@ -38,7 +38,7 @@ Here, you will find:
 - [Hard/technical Skills for Testers](./hard-skills.md)
 - [Soft Skills & Communication for Testers](./soft-skills.md)
 - [Job portals](./job-portals.md)
-- [Before Joining A Job](./before-joing-a-job.md)
+- [Before Joining A Job](./before-joining-a-job.md)
 - [Before Leaving A Job](./before-leaving-a-job.md)
 - [Resume Guide](./resume.md)
 - [Interview Preparation](./interview-preparation.md)
