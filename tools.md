@@ -83,6 +83,13 @@ Tools to help manage test environments efficiently.
 
 ---
 
+## Automated Regression Testing Tools
+Tools for repeating functional checks on applications.
+
+1. **[Agent QA](https://github.com/vostride/agent-qa)** - YAML-based regression tests for web, Android, and iOS apps, with a CLI, local dashboard, and local MCP server.
+
+---
+
 ## 🚀 Performance & Load Testing Tools
 For those who also conduct performance testing.
 
